@@ -7,7 +7,7 @@ This file is a test of a hello world program that utlizes ncurses to make sure t
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | Main.py         | Main driver that holds the program.                |
+|   1   | helloworl.cpp   | Main driver that holds the program.                |
 |   2   |                 | Screenshot of properly executed code.              |
 
 
