@@ -2,7 +2,7 @@
 
 - Player Class:
 
-   --Data:
+   +Data:
 
       *name
       *score
