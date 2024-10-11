@@ -7,7 +7,7 @@ This file is an outline that will show the possible classes and description of t
 
 |   #   | File              | Description                                            |
 | :---: | ----------------- | ------------------------------------------------------ |
-|   1   | ClassOutline.md   | Outline of potential classes utilized for Knucklebones |
+|   1   | OUTLINE.md   | Outline of potential classes utilized for Knucklebones |
 
 
 
