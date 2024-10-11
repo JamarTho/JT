@@ -2,10 +2,10 @@
 
 - Player Class:
 
-   +Data:
+   -Data:
 
-      *name
-      *score
+      -name
+      -score
       *dice_set: Array of Dice objects
       *player_stats
   
